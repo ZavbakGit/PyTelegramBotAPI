@@ -2,5 +2,5 @@
 
 # py_telegramm_zavbak_bot
 
-TOKEN ='12s'
+TOKEN ='12s2'
 
